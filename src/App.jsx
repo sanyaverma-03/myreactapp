@@ -23,7 +23,6 @@ function App() {
       <button onClick={getNewQuote} style={{ marginTop: '1rem', padding: '0.5rem 1rem' }}>
         New Quote
       </button>
-      <p>Hi, My name is Sanya</p>
     </div>
   );
 }
